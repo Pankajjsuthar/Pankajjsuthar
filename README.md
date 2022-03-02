@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my Portfolio website
 - 👯 I’m looking to collaborate on Open source and a lot on development side.
-- 💬 Ask me about HTML,CSS,JS,c++
+- 💬 Ask me about HTML,CSS,JS,C++
 - 📫 How to reach me: **LinkedIn** [Pankaj Suthar ](https://www.linkedin.com/in/pankaj-suthar-2872ab1a1/) 
 -  **Instagram** [pankajjsuthar](https://www.instagram.com/pankajjsuthar/)
 -  <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadashiq12&label=Profile%20views&color=0e75b6&style=flat" alt="fahadashiq12" /> </p>

@@ -1,6 +1,6 @@
 ###                                                             
 <h1 align="left"> < Hello folks🚀, I'm Pankaj Suthar <img src = "https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif " width = 30px> /> </h1>
-<img width="40%" img src="https://media4.giphy.com/media/4N3lQozOH2STZdDsOe/200w.gif?cid=82a1493b71r3i1liqhbwue0o5p0zlqdwd8tz4t3oeu8hwr9u&rid=200w.gif&ct=g" align="right"/>
+<img width="400px" img src="https://media4.giphy.com/media/4N3lQozOH2STZdDsOe/200w.gif?cid=82a1493b71r3i1liqhbwue0o5p0zlqdwd8tz4t3oeu8hwr9u&rid=200w.gif&ct=g" align="right"/>
 
 - 🔭 I’m currently working on my Portfolio website
 - 👯 I’m looking to collaborate on Open source and a lot on development side.
